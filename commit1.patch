@@ -1,0 +1,19 @@
+From 2a6ae2af73d5ce040308584225a3a12e5c0d789b Mon Sep 17 00:00:00 2001
+From: Arthur <Arthur@192.168.0.45>
+Date: Oct 15, 2021 4:36:27 PM
+
+Adição páginas JSP: sobre.jsp; agendamento.jsp; contato.jsp;
+
+consequente adição Template: menu.jsp;
+
+remoção da div (nav bar) no index.jsp
+
+alteração logo sem background: logo.png
+
+adição de dois css(1- border-radius)-: pagecss.css e pagecss2.css
+
+diff --git a/web/css/Contatos.css b/web/css/Contatos.css
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/web/css/Contatos.css
